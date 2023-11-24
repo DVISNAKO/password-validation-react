@@ -1,3 +1,6 @@
+![image](https://github.com/DVISNAKO/password-validation-react/assets/106438454/dd75209e-0979-408b-9254-a9c9f730a98f)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
