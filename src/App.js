@@ -65,6 +65,9 @@ function App() {
     }else if (passwordStrength <= 3){
       return "orange";
     }else if (passwordStrength <= 4){
+      return "grey";
+    }
+      else if (passwordStrength <= 5){
       return "green";
     }
   }
@@ -103,6 +106,7 @@ function App() {
             {passwordStrength === 2 && 'слабый пароль'}
             {passwordStrength === 3 && 'нормальеый пароль'}
             {passwordStrength === 4 && 'отличный пароль'}
+            {passwordStrength === 5 && 'великолепный пароль'}
           </p>
         )}
         </div>
